@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
